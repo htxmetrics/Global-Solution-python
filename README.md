@@ -8,7 +8,7 @@ na distância dos asteroides em Unidades Astronômicas (UA).
 
 Heitor Anacleto Araújo - rm573599
 
-Isaac Coimbra
+Isaac Israel Rosa Coimbra - rm570072
 
 Matheus Henrique Pedersen Guerra - rm571197
 
