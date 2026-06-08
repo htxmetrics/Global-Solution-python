@@ -4,6 +4,14 @@ Este é um sistema em Python projetado para simular o monitoramento, ingestão d
 detectados para fins de mineração espacial. O programa avalia a viabilidade de missões com base na pureza dos minérios e
 na distância dos asteroides em Unidades Astronômicas (UA).
 
+## integrantes
+
+Heitor Anacleto Araújo - rm573599
+
+Isaac Coimbra
+
+Matheus Henrique Pedersen Guerra - rm571197
+
 ## 📊 Como Funciona o Sistema
 
 O script processa uma lista de asteroides integrando três etapas principais:
